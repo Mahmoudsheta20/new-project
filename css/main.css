@@ -605,7 +605,7 @@ ul {
     bottom: 0;
     right: 0;
     border-style: solid;
-    border-width: 0px 0px 170px 500px;
+    border-width: 0px 0px 170px 550px;
     border-color: transparent transparent white transparent;
     transition: var(--main-transition);
 }
@@ -615,7 +615,6 @@ ul {
 }
 
 .features .box:hover .img-holder::after {
-    border-width: 170px 500px 170px 0;
     border-width: 170px 550px 170px 0;
 }
 
