@@ -119,6 +119,12 @@ ul {
     position: relative;
 }
 
+@media (max-width:767px) {
+    .spikes {
+        display: none;
+    }
+}
+
 .spikes::after {
     content: '';
     position: absolute;
