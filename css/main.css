@@ -1621,6 +1621,7 @@ ul {
     justify-content: center;
     flex-basis: 50%;
     align-items: center;
+    padding-bottom: 50px;
 }
 
 @media (max-width:991px) {
